@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Personal Cashbook</string>
+    <string name="add">Add</string>
+    <string name="view_data">View Data</string>
+    <string name="hey_rikin_edit_this">hey rikin edit this</string>
+    <string name="amount1">amount</string>
+    <string name="debit">Debit</string>
+    <string name="ok">OK</string>
+    <string name="description">Description</string>
+    <string name="amont">Amount:</string>
+    <string name="credit">Credit</string>
+    <string name="id">id</string>
+    <string name="amount">amount</string>
+    <string name="description1">description1</string>
+</resources>
